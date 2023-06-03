@@ -1,0 +1,4 @@
+langchain
+selenium
+webdriver_manager
+win32gui
