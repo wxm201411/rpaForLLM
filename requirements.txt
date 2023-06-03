@@ -1,4 +1,4 @@
 langchain
 selenium
-webdriver_manager
+webdriver-manager
 win32gui
